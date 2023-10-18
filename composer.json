@@ -1,5 +1,5 @@
 {
     "name": "drupal/zen",
-    "type": "drupal-custom-theme",
+    "type": "drupal-theme",
     "require": {}
 }
