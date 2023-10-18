@@ -1,5 +1,5 @@
 {
-    "name": "oist/zen",
+    "name": "drupal/zen",
     "type": "drupal-custom-theme",
     "require": {}
 }
